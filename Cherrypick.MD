@@ -1,3 +1,4 @@
 "add employee feature"
 "read employee"
 "update employee"
+"delete employee"
